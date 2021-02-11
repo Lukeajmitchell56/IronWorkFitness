@@ -1,0 +1,51 @@
+body {
+   font-family: 'Noto Sans SC', sans-serif;
+   background-color: #f3f3f3;
+}
+
+/*----Navigation Bar CSS----*/
+
+.navbar-brand{ /*Targetting the navigation title to change the font, spacing of letters and font size.*/
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 3px;
+    font-size: 30px;
+}
+
+a i { /*This code will affect the color and spacing between the social media links in the naviation bar.*/
+    color: #e9ecef;
+    letter-spacing: 8px;
+}
+
+/*----Footer CSS----*/
+
+footer { /*Background color for the footer of the page.*/
+    background-color: #292b2c;
+}
+
+footer p { /*This will target the <p> tag inside the footer. assigns a color of white, along with centering the text and giving it a padding*/
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+.btn-container { /*Applying a position and height to the button in the footer.*/
+  height: 80px;
+  position: relative;
+}
+
+.center { /*This class further targets the button within the footer, whilst avoiding any other elements with 'btn-container'. removes the margin and gives it top and bottom spacing.*/
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.footer-social { /*Social media icons are affected by this CSS, center aligning it, and creating 8px of space between each one to make it look more professional.*/
+    text-align: center;
+    letter-spacing: 8px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+}
