@@ -46,6 +46,57 @@ a i { /*This code will affect the color and spacing between the social media lin
     margin-bottom: 20px;
 }
 
+/*----Class & Gallery Containers----*/
+
+.nav-container h2 {
+    text-decoration: underline;
+    font-weight: bold;
+    color: black;
+    margin-top: 40px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 4px;
+}
+
+.nav-container img {
+    margin-top: 20px;
+    border-style: solid;
+    border-color: #5bc0de;
+}
+
+.nav-container p {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: black;
+}
+
+.gallery-button {
+    border:solid;
+    width: 30px;
+    color: white;
+    border-color: #5bc0de;
+    background-color: #5bc0de;
+    font-weight: bold;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+}
+
+.classes-button {
+   border:solid;
+    width: 30px;
+    color: white;
+    border-color: #5bc0de;
+    background-color: #5bc0de;
+    font-weight: bold;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px; 
+}
+
 /*----Footer CSS----*/
 
 footer { /*Background color for the footer of the page.*/
