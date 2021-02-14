@@ -1,11 +1,23 @@
-body {
+body { /*Applies a default font family and background color for the entire site.*/
    font-family: 'Noto Sans SC', sans-serif;
    background-color: #f3f3f3;
 }
 
+.callout-container { /* Loading in an image for the jumbotron, with all the necessary background sizes equalling cover to take up the width of the jumobtron. Code will also centre the content for style purposes.*/
+    height: 80vh;
+    background: url('../images/hero.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /*----Navigation Bar CSS----*/
 
-.navbar-brand{ /*Targetting the navigation title to change the font, spacing of letters and font size.*/
+.navbar-brand { /*Targetting the navigation title to change the font, spacing of letters and font size.*/
     font-family: 'Bebas Neue', cursive;
     letter-spacing: 3px;
     font-size: 30px;
@@ -14,6 +26,24 @@ body {
 a i { /*This code will affect the color and spacing between the social media links in the naviation bar.*/
     color: #e9ecef;
     letter-spacing: 8px;
+}
+
+/*----jumbotron----*/
+
+.jumbotron { /*Adding a transparent color to the jumbotron to make the hero image appear on the landing page.*/
+    background: transparent;
+}
+
+.jumbotron-header { /*Basic CSS code to change the font, color, and margin sizes on the header text in the jumbotron*/
+    font-family: 'Bebas Neue', cursive;
+    color:white;
+    margin-bottom: 90px;
+    margin-top: 120px;
+}
+
+.jumbotron p { /*Applying a selected color of white and a margin bottom to the paragraph text in the jumbotron for spacing purposes.*/
+    color: white;
+    margin-bottom: 20px;
 }
 
 /*----Footer CSS----*/
