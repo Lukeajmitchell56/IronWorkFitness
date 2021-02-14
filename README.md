@@ -2,7 +2,7 @@
 
 ## 5 Planes of UX Design:
 
-# * Aims of my website:
+#  Aims of my website:
 
 * Website: Ironworks Fitness
 
@@ -63,7 +63,7 @@ Features to include if I have time?
 
 ### User Stories - 
 
-1. Scenario One:                             
+Scenario One:                             
 Customer Views site and wants to become a member
 
 requirement: 
@@ -71,18 +71,14 @@ Option to sign up and become a member. Reminders to the user
 throughout the site and on each page to keep the thought fresh in
 their mind
 
-- 
-
-2. Scenario Two:
+Scenario Two:
 User wishes to contact gym regarding a question they have 
 
 Requirement:
 Contact information and clear links to social media if they wish to 
 reach out that way.
 
-- 
-
-3. Scenario Three: 
+Scenario Three: 
 User would like to find out about available classes and times 
 for them.
 
@@ -90,9 +86,7 @@ Requirement:
 Information about classes, followed by reviews from members that have/ do
 participate in the classes regularly
 
-- 
-
-4. Scenario Four: 
+Scenario Four: 
 Someone would like to know about the measures in place to reduce the
 spread of covid-19 whilst at the gym
 
@@ -102,6 +96,6 @@ to reduce transmission of covid-19
 
 ## Images used and sources I got them from:
 
-Image Name |           Photographer Name           | Link to Photo
+#### Image Name |           Photographer Name           | Link to Photo
 
 Hero.jpg   | Photo by Anastase Maragos on Unsplash | https://unsplash.com/photos/9dzWZQWZMdE
