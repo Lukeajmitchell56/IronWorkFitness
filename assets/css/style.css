@@ -15,6 +15,14 @@ body { /*Applies a default font family and background color for the entire site.
     justify-content: center;
 }
 
+.divider { /* Divider code to alter the horizontal line html to appear longer, thicker and a blue colour.*/
+    width: 150px;
+    height: 5px;
+    border: 0;
+    background-color: #5bc0de;
+    margin-top: 30px;
+}
+
 /*----Navigation Bar CSS----*/
 
 .navbar-brand { /*Targetting the navigation title to change the font, spacing of letters and font size.*/
@@ -69,7 +77,7 @@ a i { /*This code will affect the color and spacing between the social media lin
     color: black;
 }
 
-.gallery-button {
+.gallery-button { /*Editing the default button styling to make the user experience more appealing to users. curved border, colour change and button size are all affected*/
     border:solid;
     width: 30px;
     color: white;
@@ -83,7 +91,7 @@ a i { /*This code will affect the color and spacing between the social media lin
     border-radius: 20px;
 }
 
-.classes-button {
+.classes-button { /*Code is the same as 'gallery-button' class.*/
    border:solid;
     width: 30px;
     color: white;

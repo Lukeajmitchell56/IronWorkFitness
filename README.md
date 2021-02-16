@@ -94,8 +94,26 @@ Requirement:
 Container on the home page with the different ways the gym is working
 to reduce transmission of covid-19
 
+## Structure Plane
+
+The seeable homepage upon landing on the site will have more information creeping into site at the bottom of the it when the page first loads up.
+A 'sign up' button will be the central focus of the homepage as this is the end goal after the user has decided whether they wish to become a member or not.
+
+I have opted for a color scheme of light blue, grey and a subtle off-white color. These colors will make espects such as images and buttons pop out, whilst also
+keeping all the information clear and readable.
+
+Navigation will be done through a navigation bar at the top, social media icons and buttons throughout the pages of the site. For user friendliness, these will be light blue or white in the nav/ footer
+so the user can find them easily.
+
+The presentation of the site will be relatively spread out and easy for the user of the website to digest, and make the UX as clean and clear as possible.
+
+
 ## Images used and sources I got them from:
 
 #### Image Name |           Photographer Name           | Link to Photo
 
-Hero.jpg   | Photo by Anastase Maragos on Unsplash | https://unsplash.com/photos/9dzWZQWZMdE
+hero.jpg   | Photo by Anastase Maragos on Unsplash      | https://unsplash.com/photos/9dzWZQWZMdE
+
+class.jpg  | Photo by Andrea Piacquadio from Pexels     | https://www.pexels.com/photo/selective-focus-photography-of-woman-in-white-sports-brassiere-standing-near-woman-sitting-on-pink-yoga-mat-864939/
+
+weight.jpg | Photo by Pixabay from Pexels               | https://www.pexels.com/photo/adult-athlete-body-bodybuilding-414029/

@@ -2,7 +2,7 @@
 
 ## This file will contain all of the problems I encounter whilst working on my milestone project. Each page will have it's assigned section for simplicity.
 
-## * General Problems:
+##  General Problems:
 
 1. Problem: 'Active' class not being applied to classes.html when on the page. 
 
@@ -15,6 +15,18 @@
 3. Problem: Sign up modal when on mobile dropdown menu does not reveal modal when clicked. 
 
 * Solution: Added "data-toggle="modal" data-target="#signUpModal"" after the classes. Now working.
+
+## Index.html Problems: 
+
+1. Problem: Can not get hero.jpg to display/ cover the jumbotron. 
+
+* Solution: Used tutorial in course to help with the code needed. Lesson: "Updating Our Callout" Module: "User Centric Frontend Development"
+
+2. Problem: Can not get the gallery section to appear next to the classes. 
+
+* Solution: implemented the bootstrap grid system. 
+
+
 
 
 
