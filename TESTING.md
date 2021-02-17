@@ -44,6 +44,14 @@ by myself to make sure it looked good.
 
 ## Gallery.html Problems:
 
+## Contact.html Problems:
+
+1. Problem: map.png is not loading into page.
+
+* Solution: used .jpg instead of .png as image name within code.
+
+
+
 
 
 
