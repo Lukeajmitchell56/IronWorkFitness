@@ -26,6 +26,12 @@
 
 * Solution: implemented the bootstrap grid system. 
 
+3. Problem: 'See more' buttons for classes and gallery not leading to the pages. 
+
+* Solution: Changed the button element to an anchor tag and styled like a button.
+
+## Classes.html Problems:
+
 
 
 

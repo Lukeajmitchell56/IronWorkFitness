@@ -56,7 +56,7 @@ a i { /*This code will affect the color and spacing between the social media lin
 
 /*----Class & Gallery Containers----*/
 
-.nav-container h2 {
+.nav-container h2 { /* thickness, underlining decoration and a letter spacing are added to both subheadings. New font also given to both subheadings.*/
     text-decoration: underline;
     font-weight: bold;
     color: black;
@@ -65,13 +65,13 @@ a i { /*This code will affect the color and spacing between the social media lin
     letter-spacing: 4px;
 }
 
-.nav-container img {
+.nav-container img { /* Adding a solid border with a top margin and color of blue to both images.*/
     margin-top: 20px;
     border-style: solid;
     border-color: #5bc0de;
 }
 
-.nav-container p {
+.nav-container p { /* Padding added to the paragraph text within this class. also giving it a black color.*/
     padding-bottom: 20px;
     padding-top: 20px;
     color: black;
@@ -103,6 +103,29 @@ a i { /*This code will affect the color and spacing between the social media lin
     padding-top: 5px;
     padding-bottom: 5px;
     border-radius: 20px; 
+}
+
+/*Coronavirus Section CSS----*/
+
+.covid-container { /* Adding a grey border around the covid-related section of the website.*/
+    border-style: solid;
+    border-color: grey;
+}
+
+.covid-container h2,h3 { /* Targets the h2 and h3 tags within the covid container. Gives the tags a new font, along with letter spacing, thickness, margins etc.*/
+    color: black;
+    padding-bottom: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: 40px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 3px;
+}
+
+.covid-container p { /* Changes the paragraph tags to black, with padding top and margin bottom.*/
+    color: black;
+    padding-top: 20px;
+    margin-bottom: 70px;
 }
 
 /*----Footer CSS----*/

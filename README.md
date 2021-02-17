@@ -43,7 +43,7 @@ Information on the classes can also be found easily on the classes page, along w
 
 The gallery page will produce some photos to the users of the site to show them what the atmoshphere and comminity is like at the gym.
 
-## Scope Plane
+## Scope Plane:
 
 ### features to include:
 * Covid-19 measures 
@@ -94,7 +94,7 @@ Requirement:
 Container on the home page with the different ways the gym is working
 to reduce transmission of covid-19
 
-## Structure Plane
+## Structure Plane:
 
 The seeable homepage upon landing on the site will have more information creeping into site at the bottom of the it when the page first loads up.
 A 'sign up' button will be the central focus of the homepage as this is the end goal after the user has decided whether they wish to become a member or not.
@@ -107,13 +107,42 @@ so the user can find them easily.
 
 The presentation of the site will be relatively spread out and easy for the user of the website to digest, and make the UX as clean and clear as possible.
 
+## Skeleton Plane:
+
+The landing page will have a master image of somebody performing an exercise, along with a 'Sign Up' button and a motivational quote.
+
+Further down the page, brief information about the offering of classes to members will be shown, along with a link to the gallery page if the
+user wishes to view the images taken at the gym.
+
+Reviews will be shown next to stock photos of people on the classes page, to entice the user into following in their words, and starting a class, whether through a membership or not.
+
+The gallery page will consist of images of people having fun and working out at the gym. This may potentially motivate members to sign up. 
+
+Top priority content will be at the top of each page, as this is the information that is most important for the user to see.
+
+## Surface Plane:
+
+Information will be contextual to each page, starting with the most important information at the top of each page of the site. 
+
+Colors of the site will be dark grey, off white and light blue. This should provide a good amount of color without overwhelming the site with color and making for 
+a bad user experience. 
+
+I plan to use the fonts 'Bebas Neue' and 'Noto Sans SC' for the website. I feel the Bebas Neue provides a nice heading, and the Noto Sans SC is a simplistic text for paragraphs etc.
 
 ## Images used and sources I got them from:
 
 #### Image Name |           Photographer Name           | Link to Photo
 
-hero.jpg   | Photo by Anastase Maragos on Unsplash      | https://unsplash.com/photos/9dzWZQWZMdE
+hero.jpg      | Photo by Anastase Maragos on Unsplash      | https://unsplash.com/photos/9dzWZQWZMdE
 
-class.jpg  | Photo by Andrea Piacquadio from Pexels     | https://www.pexels.com/photo/selective-focus-photography-of-woman-in-white-sports-brassiere-standing-near-woman-sitting-on-pink-yoga-mat-864939/
+class.jpg     | Photo by Andrea Piacquadio from Pexels     | https://www.pexels.com/photo/selective-focus-photography-of-woman-in-white-sports-brassiere-standing-near-woman-sitting-on-pink-yoga-mat-864939/
 
-weight.jpg | Photo by Pixabay from Pexels               | https://www.pexels.com/photo/adult-athlete-body-bodybuilding-414029/
+weight.jpg    | Photo by Pixabay from Pexels               | https://www.pexels.com/photo/adult-athlete-body-bodybuilding-414029/
+
+space.png     | Image by Shafin_Protic on Pixabay          | https://pixabay.com/vectors/covid-19-corona-awareness-epidemic-5306538/
+
+sanitiser.png | Image by HaticeEROL on Pixabay             | https://pixabay.com/illustrations/hand-sanitizer-corona-covid-19-4978511/
+
+mask.png      | Image by febrianes86 on Pixabay            | https://pixabay.com/vectors/face-mask-mask-coronavirus-covid-19-5562104/
+
+roll.png      | Image by dapple-designers on Pixabay       | https://pixabay.com/illustrations/toilet-paper-paper-roll-toilet-5000684/
