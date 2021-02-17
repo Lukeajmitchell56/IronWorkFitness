@@ -37,6 +37,13 @@
 * Solution: Created 2 columns, one for the image and class name, and one for the paragraph about the class. Added a class and some padding to each paragraph
 and seems to be working fine now.
 
+2. Problem: Could not get part of div to move to the right of the rest of the content for the quotes. Found a piece of code to help fix it with position: right;.
+
+* Solution: "position:absolute; right:0;" Source - https://stackoverflow.com/questions/12710843/want-to-move-a-particular-div-to-right . Plus some other margins put in place 
+by myself to make sure it looked good.
+
+## Gallery.html Problems:
+
 
 
 

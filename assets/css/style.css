@@ -168,6 +168,41 @@ a i { /*This code will affect the color and spacing between the social media lin
     line-height: 34px;
 }
 
+#review-title { /* Standard header CSS. Underlined and made the text bold. given a margin top for spacing and changed the font to make it stand out.*/
+    text-decoration: underline;
+    font-weight: bold;
+    color: black;
+    margin-top: 40px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 3px;
+}
+
+.review-content { /* Margins to create spacing*/
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.review-content h2 { /* Margin left set at 26%, just over a quarter of the page. font & font size and changed to fit the appearance of the site.*/
+    margin-left: 26%;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.review-content img{ /* Code gives the images in the reviews section a curved border. margin to the left of 300px to centralise the content more, and a bottom margin for spacing.*/
+    border-radius: 20px;
+    margin-left: 300px;
+    margin-bottom: 20px;
+}
+
+.right-content { /* Code is to push the content to the right of the other sections of the reviews*/
+    position:absolute; 
+    right:0;
+    margin-right: 30%;
+    margin-top: 70px;
+    line-height: 34px;
+}
+
 /*----Footer CSS----*/
 
 footer { /*Background color for the footer of the page.*/
