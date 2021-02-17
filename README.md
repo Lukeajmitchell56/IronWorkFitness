@@ -129,6 +129,60 @@ a bad user experience.
 
 I plan to use the fonts 'Bebas Neue' and 'Noto Sans SC' for the website. I feel the Bebas Neue provides a nice heading, and the Noto Sans SC is a simplistic text for paragraphs etc.
 
+# Problems I encountered whilst building the IronWork Fitness website:
+
+##  General Problems:
+
+1. Problem: 'Active' class not being applied to classes.html when on the page. 
+
+* Solution: Missed a space between 'active' and 'nav-item'.
+
+2. Problem: Social links not leading to facebook, instagram etc. pages.
+
+* Solution: Use of 'youtube.com' as opposed to 'https://www.youtube.com/'. Problem down to rushing. Also added target _blank to all footer socials.
+
+3. Problem: Sign up modal when on mobile dropdown menu does not reveal modal when clicked. 
+
+* Solution: Added "data-toggle="modal" data-target="#signUpModal"" after the classes. Now working.
+
+## Index.html Problems: 
+
+1. Problem: Can not get hero.jpg to display/ cover the jumbotron. 
+
+* Solution: Used tutorial in course to help with the code needed. Lesson: "Updating Our Callout" Module: "User Centric Frontend Development"
+
+2. Problem: Can not get the gallery section to appear next to the classes. 
+
+* Solution: implemented the bootstrap grid system. 
+
+3. Problem: 'See more' buttons for classes and gallery not leading to the pages. 
+
+* Solution: Changed the button element to an anchor tag and styled like a button.
+
+## Classes.html Problems:
+
+1. Problem: Can not get the text for the classes information to move to the left of the div.
+
+* Solution: Created 2 columns, one for the image and class name, and one for the paragraph about the class. Added a class and some padding to each paragraph
+and seems to be working fine now.
+
+2. Problem: Could not get part of div to move to the right of the rest of the content for the quotes. Found a piece of code to help fix it with position: right;.
+
+* Solution: "position:absolute; right:0;" Source - https://stackoverflow.com/questions/12710843/want-to-move-a-particular-div-to-right . Plus some other margins put in place 
+by myself to make sure it looked good.
+
+## Gallery.html Problems:
+
+1. Problem: Can not get images to appear equal widths apart using bootstrap columns.
+
+* Solution: Put them all in a class and gave them the same margin %'s to create equal spacing.
+
+## Contact.html Problems:
+
+1. Problem: map.png is not loading into page.
+
+* Solution: used .jpg instead of .png as image name within code.
+
 ## Images used and sources I got them from:
 
 #### Image Name |           Photographer Name           | Link to Photo
@@ -149,6 +203,20 @@ roll.png       | Image by dapple-designers on Pixabay       | https://pixabay.co
 
 runningpic.jpg | Photo by Gustavo Fring on Pexels           | https://www.pexels.com/photo/photo-of-people-jogging-4148937/
 
+gympic1.jpg    | Photo by Leon Ardho on Pexels              | https://www.pexels.com/photo/man-and-woman-holding-battle-ropes-1552242/
+
+gympic2.jpg    | Photo by Victor Freitas on Pexels          | https://www.pexels.com/photo/person-holding-barbell-841130/
+
+gympic3.jpg    | Photo by Allan Mas on Pexels               | https://www.pexels.com/photo/asian-man-in-climbing-gym-with-girlfriend-5383781/
+
+gympic4.jpg    | Photo by Andrea Piacquadio on Pexels       | Could not find link after revisiting publishers Pexels account. :(
+
+gympic5.jpg    | Photo by Karl Solano on Pexels             | https://www.pexels.com/photo/woman-doing-push-ups-2780762/
+
+gympic7.jpg    | Photo by Jonathan Borba on Pexels          | https://www.pexels.com/photo/woman-doing-sit-ups-3076516/
+
 gympic8.jpg    | Photo by ShotPot on Pexels                 | https://www.pexels.com/photo/man-in-red-t-shirt-riding-a-stationary-bike-4046657/
+
+gympic9.jpg     | Photo by Andrea Piacquadio on Pexels       | https://www.pexels.com/photo/young-female-athlete-training-alone-on-treadmill-in-modern-gym-3768916/
 
 gympic10.jpg   | Photo by bruce mars on Unsplash            | https://unsplash.com/photos/pFyKRmDiWEA
