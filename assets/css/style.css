@@ -36,7 +36,7 @@ a i { /*This code will affect the color and spacing between the social media lin
     letter-spacing: 8px;
 }
 
-/*----jumbotron----*/
+/*----jumbotron CSS----*/
 
 .jumbotron { /*Adding a transparent color to the jumbotron to make the hero image appear on the landing page.*/
     background: transparent;
@@ -54,7 +54,7 @@ a i { /*This code will affect the color and spacing between the social media lin
     margin-bottom: 20px;
 }
 
-/*----Class & Gallery Containers----*/
+/*----Class & Gallery Containers CSS----*/
 
 .nav-container h2 { /* thickness, underlining decoration and a letter spacing are added to both subheadings. New font also given to both subheadings.*/
     text-decoration: underline;
@@ -126,6 +126,46 @@ a i { /*This code will affect the color and spacing between the social media lin
     color: black;
     padding-top: 20px;
     margin-bottom: 70px;
+}
+
+/*----Class Information CSS----*/
+
+#class-title { /* ID for page header. Adds simple styling such as an underline, thickness, font and a top margin for spacing from the nav bar.*/
+    text-decoration: underline;
+    font-weight: bold;
+    color: black;
+    margin-top: 40px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 3px;
+}
+
+.classes-container { /* Creates some spacing between page heading and class info section.*/
+    margin-top: 40px;
+}
+
+.classes-container img { /* Creates more spacing for the page with a margin bottom, along with a solid blue border for each image.*/
+    margin-bottom: 30px;
+    border: solid;
+    border-color: #5bc0de;
+}
+
+.class-info1 { /* Creates necessary amount of space between each section of text about each class*/
+    margin-top: 120px;
+    margin-left: -40px;
+    line-height: 34px;
+    
+}
+
+.class-info2 { /* See above - margin top value changes as needed.*/
+    margin-top: 220px;
+    margin-left: -40px;
+    line-height: 34px;
+}
+
+.class-info3 { /* See above - margin top value changes as needed.*/
+    margin-top: 230px;
+    margin-left: -40px;
+    line-height: 34px;
 }
 
 /*----Footer CSS----*/

@@ -32,6 +32,11 @@
 
 ## Classes.html Problems:
 
+1. Problem: Can not get the text for the classes information to move to the left of the div.
+
+* Solution: Created 2 columns, one for the image and class name, and one for the paragraph about the class. Added a class and some padding to each paragraph
+and seems to be working fine now.
+
 
 
 

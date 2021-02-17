@@ -133,16 +133,22 @@ I plan to use the fonts 'Bebas Neue' and 'Noto Sans SC' for the website. I feel 
 
 #### Image Name |           Photographer Name           | Link to Photo
 
-hero.jpg      | Photo by Anastase Maragos on Unsplash      | https://unsplash.com/photos/9dzWZQWZMdE
+hero.jpg       | Photo by Anastase Maragos on Unsplash      | https://unsplash.com/photos/9dzWZQWZMdE
 
-class.jpg     | Photo by Andrea Piacquadio from Pexels     | https://www.pexels.com/photo/selective-focus-photography-of-woman-in-white-sports-brassiere-standing-near-woman-sitting-on-pink-yoga-mat-864939/
+class.jpg      | Photo by Andrea Piacquadio from Pexels     | https://www.pexels.com/photo/selective-focus-photography-of-woman-in-white-sports-brassiere-standing-near-woman-sitting-on-pink-yoga-mat-864939/
 
-weight.jpg    | Photo by Pixabay from Pexels               | https://www.pexels.com/photo/adult-athlete-body-bodybuilding-414029/
+weight.jpg     | Photo by Pixabay from Pexels               | https://www.pexels.com/photo/adult-athlete-body-bodybuilding-414029/
 
-space.png     | Image by Shafin_Protic on Pixabay          | https://pixabay.com/vectors/covid-19-corona-awareness-epidemic-5306538/
+space.png      | Image by Shafin_Protic on Pixabay          | https://pixabay.com/vectors/covid-19-corona-awareness-epidemic-5306538/
 
-sanitiser.png | Image by HaticeEROL on Pixabay             | https://pixabay.com/illustrations/hand-sanitizer-corona-covid-19-4978511/
+sanitiser.png  | Image by HaticeEROL on Pixabay             | https://pixabay.com/illustrations/hand-sanitizer-corona-covid-19-4978511/
 
-mask.png      | Image by febrianes86 on Pixabay            | https://pixabay.com/vectors/face-mask-mask-coronavirus-covid-19-5562104/
+mask.png       | Image by febrianes86 on Pixabay            | https://pixabay.com/vectors/face-mask-mask-coronavirus-covid-19-5562104/
 
-roll.png      | Image by dapple-designers on Pixabay       | https://pixabay.com/illustrations/toilet-paper-paper-roll-toilet-5000684/
+roll.png       | Image by dapple-designers on Pixabay       | https://pixabay.com/illustrations/toilet-paper-paper-roll-toilet-5000684/
+
+runningpic.jpg | Photo by Gustavo Fring on Pexels           | https://www.pexels.com/photo/photo-of-people-jogging-4148937/
+
+gympic8.jpg    | Photo by ShotPot on Pexels                 | https://www.pexels.com/photo/man-in-red-t-shirt-riding-a-stationary-bike-4046657/
+
+gympic10.jpg   | Photo by bruce mars on Unsplash            | https://unsplash.com/photos/pFyKRmDiWEA
