@@ -203,6 +203,36 @@ a i { /*This code will affect the color and spacing between the social media lin
     line-height: 34px;
 }
 
+/*----Gallery CSS----*/
+
+.image-gallery {
+    column-count: 3;
+    margin-left: 8%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.image-solo {
+    margin-bottom: 40px;
+    border:solid;
+    border-color: #5bc0de;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .image-gallery {
+        column-count: 1;
+        margin-left: 10%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+
+    .image-gallery {
+        column-count: 2;
+    }
+}
+
 /*----Contact CSS----*/
 
 .contact-container { /* Padding for the contact page so it goes below navigation bar.*/
