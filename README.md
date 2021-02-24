@@ -272,3 +272,9 @@ gympic8.jpg    | Photo by ShotPot on Pexels                 | https://www.pexels
 gympic9.jpg     | Photo by Andrea Piacquadio on Pexels       | https://www.pexels.com/photo/young-female-athlete-training-alone-on-treadmill-in-modern-gym-3768916/
 
 gympic10.jpg   | Photo by bruce mars on Unsplash            | https://unsplash.com/photos/pFyKRmDiWEA
+
+#### Deployment Process:
+
+".git add ." - Adds all recently done work ready to be committed. ".git status" - Check to make sure everything has been added. ".git commit -m "message"" - Commits code ready to be pushed. ".git push" - Pushes code to the repository.
+
+Go to repositories and go to settings on the website repository Scroll to github pages and select 'master branch'
